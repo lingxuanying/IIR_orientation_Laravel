@@ -11,3 +11,7 @@ docker-compose up
 ```
 docker-compose down
 ```
+3. index
+```
+127.0.0.1:8000/index
+```
