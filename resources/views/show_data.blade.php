@@ -202,7 +202,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <form action="delete_data" method="post">
+                                    <form action="/delete_data" method="post">
                                         <label>user: </label>
                                         <input name="userid" type="text">
                                         <br>
