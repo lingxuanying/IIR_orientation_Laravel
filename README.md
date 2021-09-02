@@ -2,10 +2,7 @@
 ## How to run
 1. run
 ```
-mv .env.example .env
-php artisan key:generate
-docker-compose build
-docker-compose up
+docker-compose up --build
 ```
 2. remove container
 ```
